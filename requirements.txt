@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-core
+pydantic
+deepagents
+langchain-groq 
+langchain_tavily
+langchain-google-genai
+asyncio
+python-dotenv
+langchain-chroma
+tiktoken
+rich 
+click
+pydantic-settings
